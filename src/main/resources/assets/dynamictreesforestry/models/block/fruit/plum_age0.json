@@ -1,0 +1,7 @@
+{
+    "parent": "dynamictreesforestry:block/fruit/generic/cross_age0",
+    "textures": {
+        "particle": "dynamictreesforestry:blocks/plum",
+        "apple": "dynamictreesforestry:blocks/plum"
+    }
+}
